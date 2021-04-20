@@ -137,7 +137,43 @@ flowerInfo = [
 
     },
     {
-        'name':'anthurium',
+        'name':'stawberry',
+        'medical':"",
+        'cosmetic':"",
+        'edibility':"any strawberry flowers that bloom can be left to develop into strawberries",
+        'decorative':"",
+        'e-benefit':""
+
+    },
+    {
+        'name':'Willowleaf angelon ',
+        'medical':"",
+        'cosmetic':"",
+        'edibility':"",
+        'decorative':"cut flowers ideal for vases or in combination bouquets,introduced to sri lanka as an ornamental flower. its is good for decorate the garden",
+        'e-benefit':"This is an ornamental flower that adds beauty to the garden"
+
+    },
+]   {
+        'name':'golden shrimp',
+        'medical':"",
+        'cosmetic':"",
+        'edibility':"",
+        'decorative':"This is an ornamental flower that adds beauty to the garden",
+        'e-benefit':""
+
+    },
+    {
+        'name':'pentas lanceolate ',
+        'medical':"Pentas has edible and medicinal uses, you should seri",
+        'cosmetic':"",
+        'edibility':"pentas has edible value",
+        'decorative':"It is a beautiful flower that can easily attract butterflies, bees and hummingbirds and is suitable for garden decoration",
+        'e-benefit':"Colorful flower clusters that can easily attract butterflies, bees and hummingbirds are beneficial to the environment"
+
+    },
+    {
+        'name':'',
         'medical':"",
         'cosmetic':"",
         'edibility':"",
@@ -146,7 +182,7 @@ flowerInfo = [
 
     },
     {
-        'name':'anthurium',
+        'name':'stawberry',
         'medical':"",
         'cosmetic':"",
         'edibility':"",
@@ -154,4 +190,5 @@ flowerInfo = [
         'e-benefit':""
 
     },
-]
+    {
+         
