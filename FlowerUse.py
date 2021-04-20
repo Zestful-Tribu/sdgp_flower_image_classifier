@@ -47,46 +47,46 @@ flowerInfo = [
 
     },
     {
-        'name':'anthurium',
-        'medical':"",
-        'cosmetic':"",
-        'edibility':"",
+        'name':'Coltsfoot',
+        'medical':"medicine to treat respiratory conditions gout flu colds, and fever,Scientific studies link it to several health benefits including reduced inflammation brain damage and coughing,Commonly used to reduce respiratory disorders,Coltsfoot safeguards against microbial function and makes the skin look younger",
+        'cosmetic':"Coltsfoot safeguards against microbial function and makes the skin look younger",
+        'edibility':"Very small quantities of fresh young leaves can be used in salads,Coltsfoot safeguards against microbial function and makes the skin look younger",
         'decorative':"",
         'e-benefit':""
 
     },
     {
-        'name':'anthurium',
-        'medical':"",
-        'cosmetic':"",
-        'edibility':"",
+        'name':'common dandelion',
+        'medical':"May Help Fight Inflammation,May Aid Blood Sugar Control,May Reduce Cholesterol,May Lower Blood Pressure,May Promote a Healthy Liver,May Aid Weight Loss",
+        'cosmetic':"May Be a Useful Skincare Treatment,dandelion flower extracts protected against skin damage when applied just prior to or immediately after exposure to UVB radiation (sunlight)",
+        'edibility':"dandelion flower can be eaten in salad",
         'decorative':"",
         'e-benefit':""
 
     },
     {
-        'name':'anthurium',
-        'medical':"",
+        'name':'creeping buttercup',
+        'medical':"used in the treatment of sores, muscular aches and rheumatic pains,Arthritis,Blisters,Swelling (inflammation) of the main airways in the lung (bronchitis),Ongoing (chronic) skin problems",
         'cosmetic':"",
-        'edibility':"",
+        'edibility':"The acrid properties of the buttercups are unstable and are destroyed by drying or cooking, so the very mild buttercups are edible as salad greens or pot herbs",
         'decorative':"",
         'e-benefit':""
 
     },
     {
-        'name':'anthurium',
-        'medical':"",
-        'cosmetic':"",
+        'name':'daffodil',
+        'medical':"people take daffodil for whooping cough colds and asthma,treat wounds burns strains and joint pain",
+        'cosmetic':"Hydrates skin Helps treat burns and acne Decreased overall puffiness Evens out skin tone",
         'edibility':"",
-        'decorative':"",
+        'decorative':"Hot glue silk daffodils can be placed on a wreath and displayed on the door,Used for garden decorations",
         'e-benefit':""
 
     },
     {
-        'name':'anthurium',
-        'medical':"",
+        'name':'golden panda',
+        'medical':"Used for purifying the blood; for liver and pulmonary complaints",
         'cosmetic':"",
-        'edibility':"",
+        'edibility':"This aril is edible with a taste reminiscent of coconut",
         'decorative':"",
         'e-benefit':""
 
