@@ -92,46 +92,46 @@ flowerInfo = [
 
     },
     {
-        'name':'anthurium',
-        'medical':"",
-        'cosmetic':"",
-        'edibility':"",
+        'name':'lotus',
+        'medical':"Lotus flowers are used to stop bleeding",
+        'cosmetic':"oils from Lotus flower are used to make perfumes",
+        'edibility':"flowers are dried and used as seasoning",
         'decorative':"",
         'e-benefit':""
 
     },
     {
-        'name':'anthurium',
-        'medical':"",
+        'name':'manel',
+        'medical':"water lily to treat ongoing (chronic) diarrhea,water lily is sometimes applied directly to the affected area for vaginal conditions diseases of the throat and mouth and as a warm compress (poultice) for burns and boils,Water Lily Soothes Skin Rashes and Irritation",
         'cosmetic':"",
-        'edibility':"",
+        'edibility':"unopened flower can be boiled and served as a vegetable",
         'decorative':"",
         'e-benefit':""
 
     },
     {
-        'name':'anthurium',
-        'medical':"",
-        'cosmetic':"",
-        'edibility':"",
+        'name':'caliandra',
+        'medical':"been identified in petals act as an antioxidants effectively healing damaged skim",
+        'cosmetic':"been identified in petals act as an antioxidants effectively healing damaged skim",
+        'edibility':"good source of nectar to make high quality honey",
         'decorative':"",
         'e-benefit':""
 
     },
     {
-        'name':'anthurium',
-        'medical':"",
+        'name':'tiger lily',
+        'medical':"used to treat congestion and sometimes to help with nausea.",
         'cosmetic':"",
-        'edibility':"",
+        'edibility':"the petals can be tossed into salads for a slightly sweet taste and a flash of color",
         'decorative':"",
         'e-benefit':""
 
     },
     {
-        'name':'anthurium',
-        'medical':"",
+        'name':'Oxe-eye daisy',
+        'medical':"Ox-eye daisy is used for the common cold, cough, bronchitis, fever, sore mouth and throat, liver and gallbladder complaints, loss of appetite, muscle spasms, fluid retention, and tendency toward infection",
         'cosmetic':"",
-        'edibility':"",
+        'edibility':"this flower is edible",
         'decorative':"",
         'e-benefit':""
 
