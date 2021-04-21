@@ -261,6 +261,72 @@ flowerInfo = [
         'edibility':"these are inedible,It is poisonous to humans, cats and dogs",
         'decorative':"This is an ornamental flower that adds beauty to the garden",
         'e-benefit':""
+    },
+    {
+        'name':'wedelia',
+        'medical':"They are considered tonic alternative and useful in coughs cephalalgia skin diseases and alopecia",
+        'cosmetic':"",
+        'edibility':"",
+        'decorative':"",
+        'e-benefit':""
+    },
+    {
+        'name':'rose of vanezuela',
+        'medical':"Herbalists have used the dried flowers in infusions to treat dysentery and the bark to reduce bleeding  help clot the blood,Rose of Venezuela has also been used as a contraceptive by Indigenous tribes in the Amazon",
+        'cosmetic':"",
+        'edibility':"",
+        'decorative':"",
+        'e-benefit':""
+    },
+    {
+        'name':'kasturi',
+        'medical':"it used to treat for fevers,It used for treat anorexia,It used for treat oral diseases,It used for coughs,It used for it used for treat gonorrhea",
+        'cosmetic':"Can get rid of facial hair,Enhances your complexion and get rid of dark circles,Helps keep acne at bay,Makes your skin look younger,Treats skin tanning",
+        'edibility':"",
+        'decorative':"",
+        'e-benefit':""
+    },
+    {
+        'name':'yellow cosmo',
+        'medical':"",
+        'cosmetic':"",
+        'edibility':"this particular species is also edible use flowers in salads",
+        'decorative':"It is commonly grown as an ornamental",
+        'e-benefit':"They attract bees, butterflies and other beneficial insects.Their open flowers provide easy access to nectar and pollen,You can never have enough pollinators and predator insects in your garden, helping pollinate and pest manage for you"
+    },
+    {
+        'name':'wood anemone',
+        'medical':"Wood anemone is an herb that has been used in traditional Russian folk medicine,People take wood anemone for stomach pains delayed menstruation gout whooping cough and asthma",
+        'cosmetic':"",
+        'edibility':"Wood Anemones are not edible",
+        'decorative':"",
+        'e-benefit':""
+    },
+    {
+        'name':'wild pansy',
+        'medical':"Wild pansy has been used to treat skin diseases, eczema, asthma and epilepsy and asthma",
+        'cosmetic':"Pansy has diuretic, laxative, sedative, and expectorant properties, and can be used as gargle and blood purifier to get rid of the noxious substances from the body,100% natural oil to treat effectively skin conditions such as acne psoriasis and rosacea",
+        'edibility':"Pansies are one of the most popular edible flowers,They are popular eaten both fresh in salads and candied in desserts",
+        'decorative':"",
+        'e-benefit':""
+    },
+    {
+        'name':'golden shrimp',
+        'medical':"",
+        'cosmetic':"",
+        'edibility':"",
+        'decorative':"This is an ornamental flower that adds beauty to the garden",
+        'e-benefit':""
+    },
+    {
+        'name':'golden shrimp',
+        'medical':"",
+        'cosmetic':"",
+        'edibility':"",
+        'decorative':"This is an ornamental flower that adds beauty to the garden",
+        'e-benefit':""
+    },
+    {
    
 
          
