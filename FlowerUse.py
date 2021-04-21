@@ -215,6 +215,52 @@ flowerInfo = [
         'e-benefit':""
     },
     {
-
+        'name':'viola',
+        'medical':"They are high in antioxidants and anti-inflammatory,Viola tricolor (Johnny Jump-ups) may be helpful if used topically for skin conditions",
+        'cosmetic':"it used for perfumes",
+        'edibility':"Viola tricolor has long been used as an edible flower sprinkled on salads or desserts",
+        'decorative':"it used to décor cakes and cookies",
+        'e-benefit':""
+    },
+    {
+        'name':'orchid',
+        'medical':"Dried dendrobium is believed to possess medicinal properties that can help treat cancer,improve eyesight,strengthen the immune system,It is said to be effective in curing sore throat digestive problems diarrhea and gum disease",
+        'cosmetic':"It used for skin rashes and blemishes,The essence of orchid flower can be applied on all types of skin and increases cell regeneration,It used for perfumes",
+        'edibility':"The vanilla bean or pod is considered the world's only edible fruit-bearing orchid",
+        'decorative':"it used for beautify the garden",
+        'e-benefit':""
+    },
+    {
+        'name':'bougainvillea',
+        'medical':"beneficial for diabetics,Helps treat a cough,Used for hepatitis,Helps ease joint pain,Helps in relieving fever",
+        'cosmetic':"",
+        'edibility':"Can be eaten when sick",
+        'decorative':"it used for beautify the office and homer garden",
+        'e-benefit':""
+    },
+    {
+        'name':'phlox',
+        'medical':"used to treat babies that would have stomachaches,used to treat problems with the stomach,use as a body wash for a stimulant,used to cure sore eyes",
+        'cosmetic':"use as a body wash for a stimulant",
+        'edibility':"Use them as garnishes in fruit salads green salad desserts or in soups,Add to salads,pickle the flower buds,cook as a vegetable,ferment into a wine",
+        'decorative':"these are used to make flower bouquets",
+        'e-benefit':""
+    },
+    {
+        'name':'calendula',
+        'medical':"Calendula flower is used to prevent muscle spasms,It used for start menstrual periods and reduce fever,used for treating sore throat and mouth,used for cancer and stomach and duodenal ulcers",
+        'cosmetic':"May improve skin health,The nutrients found in calendula oil may slow premature aging and wrinkles and it will make your skin glow,The bright hues were often used to dye fabrics and cosmetics,Used for perfumes",
+        'edibility':"Calendula flowers or just the petals can be used for culinary purposes,The petals of this plant are edible,The fresh petals are used as a garnish seasoning or a traditional yellow cheese colorant",
+        'decorative':"Used for home gardening",
+        'e-benefit':"Many gardeners grow calendula in the vegetable garden to attract pollinators and repel pests"
+    },
+    {
+        'name':'cardinals guard',
+        'medical':"used to make a homeopathic remedy",
+        'cosmetic':"",
+        'edibility':"these are inedible,It is poisonous to humans, cats and dogs",
+        'decorative':"This is an ornamental flower that adds beauty to the garden",
+        'e-benefit':""
+   
 
          
