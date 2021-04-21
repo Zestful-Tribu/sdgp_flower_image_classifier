@@ -173,22 +173,48 @@ flowerInfo = [
 
     },
     {
-        'name':'',
-        'medical':"",
+        'name':'daisy',
+        'medical':"Lower dark spots,Treat wounds,Useful for heavy menstruation,Lower fever,daisy is used to provide relief from cough, slow bleeding and improve digestion",
+        'cosmetic':"It helps brighten and boost the skin's natural beauty and is one of the best ingredients for skin care,It helps brighten and boost the skin's natural beauty, and is one of the best ingredients for skin care,brighten skin",
+        'edibility':"they are edible. Their petals and blossoms give salads and desserts smoothies syrups and teas a unique and special flavor,It is used as a vitamin supplement and also as Petals and flower buds could be consumed raw or added to salads soups and sandwiches",
+        'decorative':"it used for wedding decorations,it used for kitchen décor,used for bathroom décor,used for home decorations,it used for garden decorations",
+        'e-benefit':"it used for garden decorations. It helps to beautify the garden"
+
+    },
+    {
+        'name':'jasmine',
+        'medical':"used for liver disease,used for liver pain due to cirrhosis,for abdominal pain due to severe diarrhea,skin diseases,for diseases of teeth",
+        'cosmetic':"It used for making perfumes,it helps to maintain a glowing skin,Jasmine essential oil is a go to tonic for beautiful,balanced and glowing skin,Jasmine oil reduces the skin's natural dryness and protects the skin's moisture",
+        'edibility':"Dried Arabian jasmine is used to flavor tea or for making potpourri",
+        'decorative':"it used for wedding decorations,It used for religious festivals,It used for garden decorations,Used for hair styles",
+        'e-benefit':"it helps to maintain the beautyfy of the garden"
+
+    },
+    {   'name':'rose',
+        'medical':"rose water was used in eye drops to treat conjunctivitis cases,its antiseptic and analgesic properties helped in treating the ocular disease,Roses have astringent phytochemical properties and can also be used medicinally to address emotional issues such as depression and loss,it used to treat for It used for snow blindness,it used for a antibacterial, it is a antidepressant, it used for a antiseptic",
+        'cosmetic':"Acts as sunscreen,Helps fight acne,Prevent dark circles,used rose petals to perfume their baths,Rose water is considered to be a natural toner for your skin",
+        'edibility':"Many old roses are delicious,The white beach rose (Rosa rugosa alba) may be the most delicious edible rose petal",
+        'decorative':"it used for wedding decorations,It used for garden decorations,Used for hair styles,these are used to make flower bouquets",
+        'e-benefit':"it used for beautyfy the garden"
+    },
+    {
+        'name':'snowdrop',
+        'medical':"used to treat children with Polio,flower remedy made from Snowdrop is used to treat grief and trauma,it used to treat Alzheimer's disease,it used to treat Memory problems,",
         'cosmetic':"",
-        'edibility':"",
+        'edibility':"Snowdrops are poisonous to eat",
         'decorative':"",
         'e-benefit':""
 
     },
     {
-        'name':'stawberry',
-        'medical':"",
-        'cosmetic':"",
-        'edibility':"",
-        'decorative':"",
+        'name':'sunflower',
+        'medical':"A tea made from the flowers is used in the treatment of malaria and lung ailments,They reduce the risk of colon cancer,They are useful in reducing stress anxiety and depression,They protect against cardiovascular disease",
+        'cosmetic':"A yellow dye is obtained from the flowers",
+        'edibility':"steamed and served like globe artichokes",
+        'decorative':"it used for beautify the garden,these are used to make flower bouquets",
         'e-benefit':""
-
     },
     {
+
+
          
