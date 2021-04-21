@@ -311,22 +311,36 @@ flowerInfo = [
         'e-benefit':""
     },
     {
-        'name':'golden shrimp',
-        'medical':"",
-        'cosmetic':"",
-        'edibility':"",
-        'decorative':"This is an ornamental flower that adds beauty to the garden",
+        'name':'phyllis african marigold',
+        'medical':"Blood purification and to reduce blood flow,•	reduce diaper rash and protect sensitive skin,•	reduce unsightly varicose veins,•	reduce bruises,•	treat swollen bug bites",
+        'cosmetic':"Topically as an ointment, lotion, cream, oil, cooled calendula tea applied as a poultice, or orally as a tincture, extract or infusion,Marigold flowers contain the yellow carotenoid pigments and are used to produce a yellow dye",
+        'edibility':"African Marigold petals are edible with a slightly bitter citrusy/spice flavor,They make a pretty garnish on rice salads or desserts,Add petals to salads",
+        'decorative':"",
         'e-benefit':""
     },
     {
-        'name':'golden shrimp',
+        'name':'Plumbago auriculata',
         'medical':"",
-        'cosmetic':"",
-        'edibility':"",
-        'decorative':"This is an ornamental flower that adds beauty to the garden",
+        'cosmetic':"Fresh cut flowers used for bruises and for soothing sunburn, burns, spots and rashes",
+        'edibility':"The flowers are edible and are particularly pretty decorating a fruit salad or floating in a cool herbal tea,",
+        'decorative':"Flowers used as ritual ornamental",
         'e-benefit':""
     },
     {
+        'name':'Willowleaf angelon (purple)',
+        'medical':"",
+        'cosmetic':"",
+        'edibility':"",
+        'decorative':"cut flowers ideal for vases or in combination bouquets,introduced to sri lanka as an ornamental flower. its is good for decorate the garden",
+        'e-benefit':""
+    },
+    {
+        'name':'olu',
+        'medical':"A decoction of the flowers is used in the treatment of premature ejaculation,The flowers are recommended as a cardiac tonic,Lotus flowers are used to stop bleeding",
+        'cosmetic':"",
+        'edibility':"Pansies are one of the most popular edible flowers,They are popular eaten both fresh in salads and candied in desser",
+        'decorative':"",
+        'e-benefit':""
    
 
          
